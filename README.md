@@ -16,4 +16,4 @@ You will now have a `target` folder containing a `lambda/basic-endpoint`
 
 This will deploy an API Gateway with two endpoints `/node` and `/rust`.
 
-These endpoints invoke thier respective Lambda functions.
+These endpoints invoke their respective Lambda functions.
